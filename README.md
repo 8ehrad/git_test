@@ -1,0 +1,1 @@
+This is 8ehrad’s first git project!
